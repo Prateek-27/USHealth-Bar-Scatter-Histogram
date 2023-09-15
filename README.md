@@ -1,4 +1,4 @@
-# Visualization Lab 1 Report
+# Visualization Lab 1
 ## Prateek Sengar
 
 ### Dataset
